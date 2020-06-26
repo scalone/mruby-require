@@ -10,6 +10,7 @@
 #include "mruby/dump.h"
 #include "mruby/string.h"
 #include "mruby/proc.h"
+#include "mruby/error.h"
 
 #include "opcode.h"
 #include "error.h"
